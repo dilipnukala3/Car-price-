@@ -1,1 +1,1 @@
-# Car-price-prediction from car dekho
+# Car-price-prediction using Car dekho data set from Kaggle. Performed EDA on the dataset.
